@@ -1,0 +1,33 @@
+{
+  "customerInfo": {
+    "name": "Mustapha Adebumi Uchendu",
+    "image": null,
+    "balance": "10000000"
+  },
+  "transactions": [
+    {
+      "date": "2023-02-01",
+      "type": "debit",
+      "amount": "150000",
+      "identifier": "James Rufai Abiodun",
+      "institution": "Guarantee Trust Bank",
+      "logo": "assets/logos/gtb.png"
+    },
+    {
+      "date": "2023-02-09",
+      "type": "debit",
+      "amount": "50000",
+      "identifier": "Jessica Akinwumi Chioma",
+      "institution": "United Bank of Africa",
+      "logo": "assets/logos/uba.png"
+    },
+    {
+      "date": "2023-02-25",
+      "type": "credit",
+      "amount": "250000",
+      "identifier": "Okon Edet Kingsley",
+      "institution": "Zenith Bank",
+      "logo": "assets/logos/zenith.png"
+    }
+  ]
+}
